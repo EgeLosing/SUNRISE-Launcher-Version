@@ -1,0 +1,4 @@
+# SUNRISE Launcher File - v3.0/Configured For: SUNRISE_LAUNCHER_a1.0_t_a.2.1
+// If CurrentVersion is newer than current version in the Launcher, Launcher automatically downloads and installs updates.
+
+CurrentVersion="4.10"
